@@ -1,0 +1,50 @@
+# Blender MTL File: 'joystick2.blend'
+# Material Count: 4
+
+newmtl cirkel
+Ns 812.249999
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd joystick-diffuse-1k.png
+map_Ns joystickcircle-ruffness.png
+
+newmtl redknapptext
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd redknapp-diff.png
+map_Ns redknapp-ruff.png
+
+newmtl skalpng
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.019728 0.019728 0.019728
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd joystick-diffuse-1k.png
+map_Ns joystick-ruffness-1k.png
+
+newmtl startknapp
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.021979 0.021979 0.021979
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Joystickstart.png
+map_Ns redknapp-ruff.png

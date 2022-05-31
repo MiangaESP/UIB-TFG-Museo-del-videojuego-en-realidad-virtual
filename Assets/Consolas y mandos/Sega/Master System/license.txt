@@ -1,0 +1,11 @@
+Model Information:
+* title:	Atari 2600
+* source:	https://sketchfab.com/3d-models/atari-2600-a72bfe5653f2458fb8be1c6165ed0d8a
+* author:	Juan Foo (https://sketchfab.com/juanotron)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Atari 2600" (https://sketchfab.com/3d-models/atari-2600-a72bfe5653f2458fb8be1c6165ed0d8a) by Juan Foo (https://sketchfab.com/juanotron) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

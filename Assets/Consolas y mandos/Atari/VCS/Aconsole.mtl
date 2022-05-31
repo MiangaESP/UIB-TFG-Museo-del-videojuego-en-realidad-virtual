@@ -1,0 +1,101 @@
+# Blender MTL File: 'Export-ready.blend'
+# Material Count: 8
+
+newmtl Acase-IMGtextures
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Acase-diffuse.png
+map_Ns Acase-ruffnessCleanShiny.png
+
+newmtl Darkmetal
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.080011 0.080011 0.080011
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Acase-diffuse.png
+map_Ns Acase-ruffnessCLEAN.png
+refl glossmetal.png
+
+newmtl HeatsinkBack
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.615176 0.615176 0.615176
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd metaldiffuse.png
+map_Ns Acase-ruffnessCleanShiny.png
+refl glossmetal.png
+
+newmtl Wood-IMGtextures
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump woodnormallow.png
+map_Kd Gotwood2k.png
+map_Ns wood-ruffness.png
+
+newmtl power
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Acase-diffuse.png
+map_Ns Acase-ruffnessCLEAN.png
+
+newmtl powerlight
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 8.183333 8.584410 5.641388
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd poweremit.png
+
+newmtl usb-blue
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000706 0.069977
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd usb.png
+map_Ns usb-ruffness.png
+
+newmtl usbmetal
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.795033 0.795033 0.795033
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd metaldiffuse.png
+map_Ns Acase-ruffnessCleanShiny.png
+refl glossmetal.png

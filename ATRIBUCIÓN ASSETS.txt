@@ -1,0 +1,130 @@
+-------------------------------------------------------------------------------------------
+
+MODELOS CONSOLAS
+
+-Atari
+    ·Atari 400 : https://sketchfab.com/3d-models/atari-400-0a34fed51f4241ffa867ee65de721d5f
+    ·Atari Pong : https://sketchfab.com/3d-models/pong-arcade-cabin-1f0f0d21ea5e4f8dbc415acde9997696
+    ·Atari 2600 : https://sketchfab.com/3d-models/atari-2600-a72bfe5653f2458fb8be1c6165ed0d8a
+    ·Atari Lynx : https://3dwarehouse.sketchup.com/model/ff3cd7cc-9e24-479a-9876-28d6dc1b9ee6/Atari-LYNX-Mk1
+    ·Atari Jaguar : https://3dwarehouse.sketchup.com/model/6bd1a21172f19b0a3ca8b71b28ce88bb/Atari-Jaguar
+    ·Atari VCS : https://www.turbosquid.com/es/3d-models/atariish-3d-1760002
+    ·Mando atari : https://sketchfab.com/3d-models/atari-2600-joystick-cd1f700e4895400d8e8ad7ee46fb28bf
+
+-Sega
+    ·Sega Master System : https://sketchfab.com/3d-models/sega-master-system-c2de422f22234b209aaae7a377846995
+    ·Sega Mega Drive : https://sketchfab.com/3d-models/lowpoly-sega-genesis-gaming-console-bceba7d09cd147da8e25ff3f5c238b37
+    ·Sega Game Gear : https://3dwarehouse.sketchup.com/model/bf8bbe00-546d-4b1e-91a3-059d5067db8d/Sega-Game-Gear
+    ·Sega Saturn : https://3dwarehouse.sketchup.com/model/86e4194e00424702d261b72fcd57b375/Sega-saturn?hl=es
+    ·Sega Dreamcast : https://3dwarehouse.sketchup.com/model/91bcea3a-3c1d-443f-a33c-86e1809958cd/Sega-Dreamcast-mit-Controller
+    
+-Nintendo
+    ·NES:https://sketchfab.com/3d-models/nintendo-nes-original-6de5054340184509af6f301c7f3fac57
+    ·NES CONTROLLER: https://sketchfab.com/3d-models/nes-controller-wcg-5262bfa778d548549c7edac75ea14d09
+    ·Game Boy: https://sketchfab.com/3d-models/game-boy-classic-0ae80019e6f046168923286d7e628f6f
+    ·SNES : https://sketchfab.com/3d-models/snes-console-cb62a1ddd75841e0a6b143e53c9240bd
+    ·SNES Controller: https://sketchfab.com/3d-models/snes-controller-7866a8448325422abaa9599688007db5
+    ·Nintendo 64: https://3dwarehouse.sketchup.com/model/u1749c274-7f89-4a49-b984-b8cedb45c344/Nintendo-64-with-Super-Mario-64-in-it
+    ·Nintendo 64 controller: https://sketchfab.com/3d-models/n64-controller-textured-bd8ca6f21e4b44d08727f11730fefb82
+    ·Game boy advance: https://3dwarehouse.sketchup.com/model/5c187001-891f-4118-ae81-0febff1197cd/Game-Boy-Advance
+    ·Nintendo DS : https://sketchfab.com/3d-models/nintendo-ds-lite-ca529eb7208746e89b7a28fd2246659d
+    ·Nintendo 3DS: https://sketchfab.com/3d-models/new-nintendo-3ds-1e820d14445d45edbda0434dff8fe037
+    ·Game Cube: https://sketchfab.com/3d-models/game-cube-free-download-424ac8af08394ac7bc03d843f331feb7
+    ·WII : https://sketchfab.com/3d-models/wii-7a96a38cf0684aecb42a58d1e3b65cb9
+    ·Wii Controller: https://sketchfab.com/3d-models/wii-controller-test-346927e0ef4f47baa0b2d69117a21c1c
+    ·WII U : https://sketchfab.com/3d-models/wii-u-a2e2e62fd88e43b1a5232daf34aed850
+    ·Switch : https://sketchfab.com/3d-models/nintendo-switch-b30e0a74899b4f9baf030d02f45ab599
+
+-Sony
+    ·PS1 : https://sketchfab.com/3d-models/playstation-1-96bed8283f2940d7bb4b1866ab0637a2
+    ·PS1 Controller: https://sketchfab.com/3d-models/ps-controller-25822dec79cd4c539af75da069aa9aec
+    ·PS2 : https://sketchfab.com/3d-models/playstation-2-8c992e9f5c86496ca7bd7dfe109d3cc2
+    ·PS2 Controller: https://sketchfab.com/3d-models/ps2-controlller-1bf24385ac96490d805b380e5b0246f7
+    ·PSP : https://sketchfab.com/3d-models/sony-psp-dca89d10ec304d0cab76837750df7761
+    ·PS3 : https://sketchfab.com/3d-models/cabinet-with-tv-dvd-player-vhs-ps3-4a9f29cfdfa64592bfeafaec59c7bf39
+    ·PS3 Controller: https://sketchfab.com/3d-models/ps3-controller-d3f2431b849340b98871f1dabc531941
+    ·PS Vita : https://3dwarehouse.sketchup.com/model/7d43d670-07a7-42fb-b55c-516b5404487f/PS-vita
+    ·PS4 : https://sketchfab.com/3d-models/ps4-fat-db08563414cf4bfdbdd1f40074b869b3
+    ·PS4 Controller: https://sketchfab.com/3d-models/ps4-controller-c10e207b60ec451fabde91c17d4cb2ac
+    ·PS5: https://sketchfab.com/3d-models/ps5-d788de3735964151a3e24fd59c0f1956
+    ·PS5 Controller: https://sketchfab.com/3d-models/ps5-controller-f75caead1dc1474195eb32a7f4c71117
+
+-Microsoft
+    ·XBOX : https://sketchfab.com/3d-models/xbox-first-generation-c586f9956989480fb14f11447fb1d42c
+    ·XBOX 360 : https://sketchfab.com/3d-models/xbox-360-black-3d-model-by-rob-bryant-jr-f65ac4721fd34dd8a8b63adfa712f5b8
+    ·XBOX CONTROLLER : https://sketchfab.com/3d-models/xbox-360-controller-31f699500e58427ebf042ff75abd4bec
+    ·XBOX ONE : https://sketchfab.com/3d-models/xbox-one-bfe7d60a29a24dc18c5bc17bd4779cc7
+    ·XBOX ONE X : https://sketchfab.com/3d-models/xbox-one-xs-294f13ab554f4d4d832b271045bda4fa
+    ·XBOX Series S : https://sketchfab.com/3d-models/xbox-series-s-c382c3f9f9ea4dc0afcd0ed177bde3f7
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+VIDEOS CONSOLAS
+
+-Atari
+    ·Atari 400 : https://www.youtube.com/watch?v=vNuSMDeAO4s
+    ·Atari Pong : 
+    ·Atari 2600 : https://www.youtube.com/watch?v=QmrQkQsM9FU
+    ·Atari Lynx : https://www.youtube.com/watch?v=wVcDpuPYXNU
+    ·Atari Jaguar : https://www.youtube.com/watch?v=o4u8dxpm3-4
+    ·Atari VCS : https://www.youtube.com/watch?v=KEsCbwFWyPc
+
+-Sega
+    ·Sega Master System : https://www.youtube.com/watch?v=gWo-Lm0FQZo
+    ·Sega Mega Drive : https://www.youtube.com/watch?v=Gsa_4s3CjmI
+    ·Sega Game Gear : https://www.youtube.com/watch?v=0OyyxFOVaYA
+    ·Sega Saturn : https://www.youtube.com/watch?v=2cgtDwn7i-E
+    ·Sega Dreamcast : https://www.youtube.com/watch?v=0ESGFcbc-B8
+    
+-Nintendo
+    ·NES: https://www.youtube.com/watch?v=K5yqXTh1IUw
+    ·Game Boy: https://www.youtube.com/watch?v=G1bu5fTMKEs
+    ·SNES : https://www.youtube.com/watch?v=bIWvEFPdEmM
+    ·Nintendo 64: https://www.youtube.com/watch?v=h6tFoIUyOdU
+    ·Game boy advance: https://www.youtube.com/watch?v=nPzBeIATN74
+    ·Nintendo DS : https://www.youtube.com/watch?v=ppMCqcf4Y80
+    ·Nintendo 3DS: https://www.youtube.com/watch?v=zRirNjXI760
+    ·Game Cube: https://www.youtube.com/watch?v=_oCRjJYPXoE
+    ·WII : 
+    ·WII U : https://www.youtube.com/watch?v=N8IkLfYDsaY
+    ·Switch : https://www.youtube.com/watch?v=CE8PS7r3IGM
+
+-Sony
+    ·PS1 : https://www.youtube.com/watch?v=VjEchWx-ZaA
+    ·PS2 : https://www.youtube.com/watch?v=x64859qvAHw
+    ·PSP : https://www.youtube.com/watch?v=_GIrIqhqUaE
+    ·PS3 : https://www.youtube.com/watch?v=_Mn-vjJ6n0M
+    ·PS Vita : https://www.youtube.com/watch?v=Xkp05L5cPJY
+    ·PS4 : https://www.youtube.com/watch?v=tKf_J4be6dw
+    ·PS5: https://www.youtube.com/watch?v=PoZQ5SybSPs
+
+-Microsoft
+    ·XBOX : https://www.youtube.com/watch?v=mtRmzN_W7W8
+    ·XBOX 360 : https://www.youtube.com/watch?v=fWJSzIZIowI
+    ·XBOX ONE : https://www.youtube.com/watch?v=eF9-JTkxIxo
+    ·XBOX ONE X : https://www.youtube.com/watch?v=K_0u0098RaI
+    ·XBOX Series S : https://www.youtube.com/watch?v=6sc9tFOpnUc
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+OTROS
+
+Font texto Pong: https://fontstruct.com/fontstructions/show/1158273/pong_score
+
+WASD y raton: https://www.pngitem.com/middle/iTRxwTx_configuracin-de-teclas-para-el-demo-w-a/
+Tecla E: https://www.pngegg.com/en/png-fjihv
+Tecla Q: https://www.hiclipart.com/free-transparent-background-png-clipart-qrnlt
+Oculus controller: https://unrealrox.readthedocs.io/en/master/_site/project/controllers.html
+Tecla espacio: https://docs.google.com/document/d/1r9qPOGg9_UiOLucaDtGRGyh95O7Y0bod6PvQ6gEIUdM/mobilebasic
+
+Bola de bolos: https://sketchfab.com/3d-models/bowling-ball-5d31d395e0e24138900065b642ac8299
+Pino de bolos: https://sketchfab.com/3d-models/bowling-pin-7b4f3c1ca2f1451ebe3cf7ea984f69fc
+Pista de bolos: https://sketchfab.com/3d-models/bowling-alley-mozilla-hubs-room-644609db6a5a435098b305413b162266
+
+Flecha suelo: https://thypix.com/pic/white-arrow-73/
+
+Felchas movimiento mando: https://icon-icons.com/es/icono/flechas-grupo-los-cuatro-las-direcciones/57005
+
+Tileset plataformas: https://o-lobster.itch.io/
+
+-------------------------------------------------------------------------------------------------------------------------------
