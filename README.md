@@ -1,4 +1,4 @@
-# UIB-TFG-Museo-del-videojuego-en-realidad-virtual
+# Museo del videojuego en realidad virtual
 Proyecto Unity desarrollado como TFG de la Universidad de las Islas Baleates, titulado Museo del videojuego en realidad virtual.
 
 Este proyecto se enmarca en el ámbito del desarrollo de videojuegos y la realidad virtual. En concreto, hemos desarrollado una aplicación multidispositivo y multijugador que funcione para ordenadores y dispositivos de realidad virtual.
